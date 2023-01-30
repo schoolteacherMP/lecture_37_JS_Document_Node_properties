@@ -14,12 +14,11 @@
 ### Добавить элемент  
 Создайте HTML-документ с списком и кнопкой. Когда пользователь нажимает кнопку, используйте innerHTML для добавления нового элемента списка.  
 Вставить код в HTML:  
-`<ul id="list">  
-  <li>Элемент 1</li>  
-  <li>Элемент 2</li>  
-</ul>  
-<button id="btn">Добавить элемент</button>  
-`  
+`<ul id="list">`  
+  `<li>Элемент 1</li>`  
+  `<li>Элемент 2</li>`  
+`</ul>`  
+`<button id="btn">Добавить элемент</button>`     
 Вставить код в JS:   
 `document.getElementById("btn").addEventListener("click", function(){  
     //ваш код   
