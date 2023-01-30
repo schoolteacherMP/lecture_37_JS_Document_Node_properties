@@ -4,6 +4,9 @@
 `<p id="text">Исходный текст</p>  `  
 `<button id="btn">Изменить текст</button>`  
 Вставить код в JS:   
+`document.getElementById("btn").addEventListener("click", function(){
+  //ваш код
+});`  
 
 ## Задача 2.   
 ### 
