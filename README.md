@@ -4,8 +4,8 @@
 
 ## Методы для работы с атрибутами:  
 
-- elem.hasAttribute(name) – проверить на наличие.  
-- elem.getAttribute(name) – получить значение.  
-- elem.setAttribute(name, value) – установить значение.  
-- elem.removeAttribute(name) – удалить атрибут.  
-- elem.attributes – это коллекция всех атрибутов.  
+- elem.**hasAttribute**(name) – проверить на наличие.  
+- elem.**getAttribute**(name) – получить значение.  
+- elem.**setAttribute**(name, value) – установить значение.  
+- elem.**removeAttribute**(name) – удалить атрибут.  
+- elem.**attributes** – это коллекция всех атрибутов.  
