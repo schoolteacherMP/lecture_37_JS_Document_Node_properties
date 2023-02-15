@@ -9,3 +9,4 @@
 - elem.**setAttribute**(name, value) – установить значение.  
 - elem.**removeAttribute**(name) – удалить атрибут.  
 - elem.**attributes** – это коллекция всех атрибутов.  
+
