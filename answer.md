@@ -20,11 +20,17 @@
 
 
 ## Задача 6.   
+### меняем цвет  
+![image](https://user-images.githubusercontent.com/113675674/224027659-ea387728-b3e6-4bb5-9055-5cee30b9953a.png)  
+![image](https://user-images.githubusercontent.com/113675674/224027730-29133ddd-eaa6-4876-9e77-a2768fe005ff.png)  
+
+
+## Задача 7.   
 ### Получите атрибут  
 ![image](https://user-images.githubusercontent.com/113675674/216936994-3dbc0453-460d-4c0d-a19f-8b9e563c544c.png)  
 
 
-## Задача 7.   
+## Задача 8.   
 ### Сделайте внешние ссылки оранжевыми  
 Во-первых, мы должны найти все внешние ссылки.  
 Это можно сделать двумя способами.  
