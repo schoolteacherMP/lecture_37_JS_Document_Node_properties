@@ -54,14 +54,30 @@
 });`  
 
 
+
 ## Задача 6.   
+### меняем цвет  
+Есть div с текстом красного цвета и кнопка. При нажатии на кнопку цвет шрифта должен меняться с красного, на зеленый. Напишите CSS и реализуйте функционал.  
+ `<div id="colorDiv" data-some-color="red">`  
+  `    Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam et`  
+   `   odio, repellat voluptate est veritatis adipisci eum repellendus eligendi`  
+    `  quidem ipsam saepe molestiae minus autem quaerat! Natus voluptas incidunt`  
+     ` aliquam.`  
+    `</div>`  
+    `<button id="btn">Изменить цвет</button>`  
+    Вставить код в JS:  
+`document.getElementById("btn").addEventListener("click", function(){  
+ //ваш код     
+});`  
+
+## Задача 7.   
 ### Получите атрибут  
 Напишите код для выбора элемента с атрибутом data-widget-name из документа и прочитайте его значение.  
 
   `<div data-widget-name="menu">Choose the genre</div>`  
   
 
-## Задача 7.   
+## Задача 8.   
 ### Сделайте внешние ссылки оранжевыми  
 Сделайте все внешние ссылки оранжевыми, изменяя их свойство style.  
 
